@@ -4,6 +4,7 @@ const router = express.Router();
 const home_controller = require('../controller/home'); // fichier des fonctions controller
 
 router.get('/',function (req,res){
+    console.log('new data')
     res.redirect('/home')
 })
 
