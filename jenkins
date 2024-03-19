@@ -1,0 +1,1 @@
+git config --global --add safe.directory 'C:/Donnees/Formation/Cours/DevOps/Projets/jenkinsGitNode'
