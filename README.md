@@ -1,3 +1,3 @@
 ## jenkinsGitNode
 
-jenkins job
+jenkins job test
